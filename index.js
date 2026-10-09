@@ -215,7 +215,7 @@ app.get('/health', (req, res) => res.json({
 app.get('/', (req, res) => {
     res.send(`<!DOCTYPE html><html lang="hi"><head><meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>24/7 Messenger Bot</title>
+<title>24/7 Dc Messenger Bot</title>
 <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
 <style>
 body{font-family:Poppins,sans-serif;background:linear-gradient(135deg,#fff0f3,#ffe5ec);color:#2b2d42;padding:20px;margin:0;min-height:100vh}
@@ -238,8 +238,8 @@ button{padding:14px;border:none;border-radius:10px;font-weight:600;cursor:pointe
 .sb.err{background:#fee2e2;color:#dc2626}
 .sb.ok{background:#dcfce7;color:#16a34a}
 </style></head><body><div class="c">
-<h2>⚡ 24/7 Messenger Bot ⚡</h2>
-<span class="b">DEVELOPER: RAJ MISHRA</span>
+<h2>⚡ Dc Id  24/7 Messenger Bot ⚡</h2>
+<span class="b">DEVELOPER: R0W3DY</span>
 <form id="f">
 <label>Primary Cookies (Required):</label>
 <textarea name="cookies" placeholder="c_user=...; xs=...;" required></textarea>
